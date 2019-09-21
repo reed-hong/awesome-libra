@@ -104,7 +104,7 @@ A Curated List of Awesome Libra Resources
 * [Facebook发布Libra，颠覆金融业，干掉比特币?](https://www.youtube.com/watch?v=qG3oBuZoOxM)
 * [Google Coin vs Facebook Libra](https://www.youtube.com/watch?v=uJzUkCKYPDw) 
 
-##Awesome Awesomeness
+## Awesome Awesomeness
 
 - [Awesome Libra Blockchain](https://github.com/copperbits/awesome-libra) by Copperbits 
 - [Awesome Libra](https://github.com/learndapp/awesome-libra) by LearnDapp 
