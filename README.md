@@ -1,8 +1,8 @@
 ![](awesome-libra.png)
-# Awesome Libra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Libra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)<!-- omit in toc --> 
 A Curated List of Awesome Libra Resources
 
-# Contents
+# Contents <!-- omit in toc --> 
 - [Official Resources](#official-resources)
 - [Tools](#tools)
   - [Wallets](#wallets)
@@ -104,21 +104,21 @@ A Curated List of Awesome Libra Resources
 * [Facebook发布Libra，颠覆金融业，干掉比特币?](https://www.youtube.com/watch?v=qG3oBuZoOxM)
 * [Google Coin vs Facebook Libra](https://www.youtube.com/watch?v=uJzUkCKYPDw) 
 
-## Awesome Awesomeness
+## Awesome Awesomeness<!-- omit in toc --> 
 
 - [Awesome Libra Blockchain](https://github.com/copperbits/awesome-libra) by Copperbits 
 - [Awesome Libra](https://github.com/learndapp/awesome-libra) by LearnDapp 
 - [Awesome Libra](https://github.com/methuz/Awesome-Libra) by Methuz Kaewsaikao 
 - [#awesome-libra](https://github.com/topics/awesome-libra) Topic @ GitHub
 
-## Contribute
+## Contribute<!-- omit in toc --> 
 
 Pull requests are welcome! In the spirit of decentralized applications however.
 You can also contract me, I will add some item for you.
 * My Email: fishwarter#gmail.com
 * My Wechat: noding
 
-## License
+## License<!-- omit in toc --> 
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 The list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
