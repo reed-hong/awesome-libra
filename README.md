@@ -1,8 +1,8 @@
 ![](awesome-libra.png)
-#Awesome Libra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Libra [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A Curated List of Awesome Libra Resources
 
-#Content
+# Content
 - [Official Resources](#official-resources)
 - [Tools](#tools)
   - [Wallets](#wallets)
@@ -22,9 +22,6 @@ A Curated List of Awesome Libra Resources
 - [Others](#others-1)
   - [Article](#article)
   - [Video](#video)
-
-
-
 
 
 # Official Resources
@@ -114,14 +111,14 @@ A Curated List of Awesome Libra Resources
 - [Awesome Libra](https://github.com/methuz/Awesome-Libra) by Methuz Kaewsaikao 
 - [#awesome-libra](https://github.com/topics/awesome-libra) Topic @ GitHub
 
-##Contribute
+## Contribute
 
 Pull requests are welcome! In the spirit of decentralized applications however.
 You can also contract me, I will add some item for you.
 * My Email: fishwarter#gmail.com
 * My Wechat: noding
 
-##License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 The list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
