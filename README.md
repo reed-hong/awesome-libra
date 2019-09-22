@@ -98,6 +98,7 @@ A Curated List of Awesome Libra Resources
 # Others
 ## Article
 * [First Look: Libra](https://info.binance.com/en/research/marketresearch/libra.html) - An in-depth review of Facebook's long-anticipated entry into cryptocurrency, written by binance.
+* [肖风最新演讲全文：由Libra引起的思考](https://www.8btc.com/article/483237) - 中国区块链教父，对Libra的最新思考
 ## Video
 * [The Libra Blockchain (Paper Review)](https://youtu.be/dcAqb0wBl5g) - Talk about the design by reviewing the technical whitepaper.
 * [Facebook发布Libra，颠覆金融业，干掉比特币?](https://www.youtube.com/watch?v=qG3oBuZoOxM)
