@@ -30,7 +30,7 @@ A Curated List of Awesome Libra Resources
 * [Introducing Libra (YouTube)](https://www.youtube.com/watch?time_continue=1&v=4zw-jpVFKMY) - Promo video about Libra by Libra Association
 * [libra on Twitter](https://twitter.com/search/libra) - Official twitter account
 * [Libra on GitHub](https://github.com/libra/libra) - Official repository
-
+* [Official Community](https://community.libra.org/) - Official Community
 
 # Tools
 ## Wallets
@@ -89,10 +89,10 @@ A Curated List of Awesome Libra Resources
 
 
 # Community
-* [Official Community](https://community.libra.org/)
+* [Official Community](https://community.libra.org/) - Official Community
 * [Telegram: Libra Devs](https://t.me/joinchat/DAQb4RSNpqEok3p-QdmaKQ)
 * [LibraChina](https://libra-china.org) - Libra中国社区
-  * [Community](https://community.libra-china.org) - 中文论坛
+* [Community](https://community.libra-china.org) - 中文论坛
 
 
 # Others
