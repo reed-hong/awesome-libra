@@ -76,7 +76,7 @@ A Curated List of Awesome Libra Resources
 * [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=SDKBox.vscode-libra-move) - Libra Move language (syntax highlighting, snippets) for Visual Studio Code.
   * [VSCode Plugin Github](https://github.com/sdkbox/vscode-libra-move) - VSCode Plugin Source
 ## Courses
-* [LibraIDE](https://learnlibramove.com/) - Learning Libra Move within 7 Days?Let's try MoveCastle
+* [LearnLibraMove](https://learnlibramove.com/) - Learning Libra Move within 1 hour? Let's try MoveCastle
 * [CryptoZombies](https://cryptozombies.io/libra/) - (Libra/Move Edition) Upcoming! - learn Libra blockchain contract programming by coding your own game using the Move programming language; 
 * [Libra区块链钱包开发实录附源码 - LearnDapp系列](https://github.com/learndapp/LearnDapp/blob/master/topics/libra/01/libra-wallet.md)
 ## Move
